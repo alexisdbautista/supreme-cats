@@ -1,4 +1,3 @@
-/*this is a test*/
 .container-one {
   background-color: #f3abaa;
   border-bottom:4px solid black;
@@ -27,7 +26,7 @@
 .btn-group:hover {
   transition-duration:0.4s;
   background-color: #80ced6;
-  color: white;
+  color: black;
 }
 footer {
   text-align: center;
