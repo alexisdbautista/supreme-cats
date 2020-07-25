@@ -26,7 +26,7 @@
 .btn-group:hover {
   transition-duration:0.4s;
   background-color: #80ced6;
-  color: black;
+  color: white;
 }
 footer {
   text-align: center;
